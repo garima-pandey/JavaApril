@@ -1,0 +1,132 @@
+Java 
+
+- WORA: Write once run anywhere
+- Platform independent
+- It is a portable
+- It is OOPS
+
+Platform = o/s + hardware
+
+Java Working / Why Java?
+
+Source Code				--------->						Binary Languge (2 - 0, 1)
+ 																or
+english(.c, .cpp)		Compile/Translate				Machine Language or Native Code
+
+not platfrom independent 
+language
+
+source code (.java)	---------> Byte Code(.class) (intermediate code)--------> 	Binary/machine/native	
+						compiler												Interpreter(JRE)
+
+
+JRE: Java Runtime Environment
+JDK: Java Development Kit
+
+binary - 2, (0, 1)
+
+computer system ----> Electronic Device -----> current flow (1) ----> No current flow (0)
+
+Binary language
+
+
+byte code ---> it is not a source code and not a machine code. it is intermediate code. 
+byte code only readable by JRE (interpreter)
+
+JRE: JRE read byte code and convert it into machine code
+
+Java History:
+
+- Invented by James Gosling in 1991
+- Developed by Sun Microsystems
+- The old name of java is "Oak"
+- in 1995, first released publicly as "java 1.0"
+- Sun Microsystems sold java to oracle corporation in 2009
+
+Java is open source:
+only free for 8 version
+
+- Sun Solaris Server - Hardware
+- Sun Solaris Operating System
+- OCJP: Oracle Certified Java Program
+
+Front end - HTML, CSS, Javascript, React js, Angular, Vue
+Node js - Backend
+
+
+Flipkart
+Amazon
+Myntra
+Facebook
+Meesho
+
+Web Dev
+
+only read and write
+operations
+
+
+Java - Enterprise(Distributed) Applications - Banking Applications
+
+- Loan Software
+- Insurance Software
+- CASA: Current Account and Saving Account
+
+javac -version: java compiler 
+java -version : JRE
+
+Java Program:
+
+- Compile: javac Example.java <filename>
+- Run: java Hello <classname or byte code>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

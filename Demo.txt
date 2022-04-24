@@ -1,0 +1,31 @@
+Java + DSA
+
+C: Procedural/Function Programming
+
+C++: Object Oriented Programming Language, Class and Object
+
+Drivers
+O/S
+Embedded System, Chips, Logic Gates
+
+Templates
+STL(Standard template library): predefined DS
+
+Java : OOPS
+
+- WORA: Write Once Run Anywhere
+- Platform Independent
+Mac, Linux, Windows
+
+- Visual Studio Code, light weighted
+	command 
+- Eclipse, GUI: Graphical User Interface
+
+Java - Project - Banking Project
+
+DSA: Data Structures and Algorithms
+
+DS + Approches
+
+300 - 400
+100 - 150 - Approches
