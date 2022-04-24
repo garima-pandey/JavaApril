@@ -1,0 +1,82 @@
+Creating first program in java
+
+- Every java program start with class
+- Class name should start with capital letter
+- class name should be same as file name
+- class name starts with either aplhabet or special symbol(_, $)
+
+javac: java compiler
+java(JRE): Run the java code
+
+main method:
+
+- main is a entry point in every java program
+- without main java will compile the code and convert it into byte code. 
+But it cannot execute the code or interpret the code
+
+why main is public?
+
+- JRE uses main
+- Java command trigger the JRE
+- JRE load your class in the memory
+- JRE is looking for main
+- JRE is outside from our directory/folder/package and outside the package things can access
+
+Why main is static?
+
+- static things are loaded into memory when class is loaded
+
+Why main is void?
+
+- main is void in nature
+- main is entry point so there is no need to return anything
+
+
+Main arguments - String[] args
+
+- main has command line arguments
+
+Command Line Arguments:
+
+- we can make our own commands
+- we can pass any number of arguments, that's why it is array
+- All arguments are pass to main in form of array of string
+
+What is String?
+
+- String is collection of characters
+- String internally is a char[]
+- String is a predefined class in java as it is in capital letter
+
+What is System.out.println("Hello World")?
+
+- println(): print in new line, println comes from out object
+- out: out is an predefined object, which belongs to PrintStream class
+- System is a predefined class used for input, output, and error
+e.g: System.in, System.out, System.err
+
+println vs print
+
+- println: print in new line
+- print: here cursor remains at the end of the text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
