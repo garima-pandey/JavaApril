@@ -1,0 +1,19 @@
+can we overload main()?
+
+- Yes we can overload main
+- when we execute the class, JVM(Java Virtual Machine)starts execution with public static void 
+main(String[] args)
+
+
+Define variable, variable declaration, local variable intialize must before use
+
+- Java doesn't have any garbage value
+- it throws error
+- local variables must be initialized before use
+- otherwise compilation fails
+
+
+command line input (dynamic way of initialization)
+
+javac Demo.java
+java Demo 10 20 
