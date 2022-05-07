@@ -1,0 +1,54 @@
+Data Types:
+
+1. Value data types: lowercase data types
+2. Reference data types: Capital Letter - String
+
+
+Enter the age of person
+
+byte - 1 byte = 8 bits
+
+1 bit + -
+7 bits - number range
+
+Bit - 0 or 1 - Base 2
+
+-2 ^ 7 to 2 ^ 7 - 1
+-128 to 127
+
+
+It is used to store integral only.
+
+byte - 1
+short - 2 
+int - 4
+long - 8 
+
+Decimal Values
+
+float - 4
+double - 8
+
+character value
+
+char - 2
+
+- Because java works on unicode (universal code)
+
+
+char[] = 'R', 'u', 's', 'h', 'i', 'l'
+
+String = "Rushil"
+
+boolean - 1 byte/2 bytes/4 bytes - depending upon o/s
+
+
+
+
+
+
+
+
+
+
+
