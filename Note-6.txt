@@ -1,0 +1,72 @@
+2 major types of programming:
+
+- Procedural - functions - Divide a problem into functions
+- OOPS - Wrap all the variables and functions into a single unit
+
+Why OOPS?
+
+In C++, Java Programming
+
+class A {
+
+int x, y;
+
+add()
+{}
+
+sub()
+{}
+
+div()
+{}
+
+mul()
+{}
+
+}
+
+class B {
+
+sin()
+{
+	double x;
+}
+
+}
+
+What is OOPS?
+
+Divide a big problem into classes
+
+OOPS features:
+
+1. class , object
+
+object - real world entity
+e.g: car, fan, laptop etc
+e.g: amit, ram, shyam, rushil
+
+class/category: collection of similar objects
+blueprint
+
+class - collection of features/characteristics
+
+e.g: human (features brain, height, ears)
+object - ram sharp brain, 6 feet height, 2 ears
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
