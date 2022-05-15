@@ -1,0 +1,44 @@
+OOAD- Object Oriented Analysis and Design
+- OOAD provides SOLID principle
+
+1. Duplicacy in program
+Solution:
+
+SOLID
+D: DRY (Don't Repeat Yourself)
+Copy paste alternative create a function and call it.
+
+
+2. Security of the code
+
+- Data Security
+
+Encapsulation - Wrap methods and member variables into a single unit 
+is called a class.
+
+Data Hiding - Good Encapsulation
+
+- make member variables private
+
+Good Encapsulation: Data Hiding + Encapsulation
+
+#By default scope is default
+
+4 types of scopes in java
+
+- private: with in the class
+- public: Global, access on any package
+- default: (not keywprd just concept) - scope with in the package
+- protected: with in the package but i can access also outside the package 
+using inheritance
+
+This:
+
+- this keyword holds current object's address / reference
+- this keyword is optional to write, it is implicitly work itself
+
+
+
+
+
+
