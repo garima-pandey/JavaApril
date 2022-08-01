@@ -12,6 +12,20 @@ public class Student {
 	private String collegeName;
 	
 	
+	public Student(int rollno, String name, String phone) {
+//		super();
+		this("Btech", 10000);
+		this.rollno = rollno;
+		this.name = name;
+		this.phone = phone;
+	}
+
+	public Student(String course, double fees) {
+//		super();
+		this.course = course;
+		this.fees = fees;
+	}
+
 	public String getPhone() {
 		return phone;
 	}
@@ -23,21 +37,22 @@ public class Student {
 	//Default Constructor
 	Student()
 	{
-		this(101, "Ram", "8146864876", "Btech", 10000); //parameterized cons call
+		this(101, "Ram", "87264871687");
+//		this(101, "Ram", "8146864876", "Btech", 10000); //parameterized cons call
 		collegeName = "SRCC";
 	}
 	
 	//parameterized constructor
-	Student(int rollno, String name, String phone, 
-			String course, double fees){
-//		this(); // default constructor call
-		this.rollno = rollno;
-		this.name = name;
-		this.phone = phone;
-		this.course = course;
-		this.fees = fees;
-		
-	}
+//	Student(int rollno, String name, String phone, 
+//			String course, double fees){
+////		this(); // default constructor call
+//		this.rollno = rollno;
+//		this.name = name;
+//		this.phone = phone;
+//		this.course = course;
+//		this.fees = fees;
+//		
+//	}
 	
 ////	r, n, p, c, f  are local variables
 ////	public void takeInput(int r, String n, String p, String c, double f)
