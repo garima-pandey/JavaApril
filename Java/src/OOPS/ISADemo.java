@@ -48,6 +48,7 @@ public class ISADemo {
 		StudentChild student = new StudentChild(); 
 		student.printName();
 		student.printId();
+		student.contNumber();
 		
 	}
 
