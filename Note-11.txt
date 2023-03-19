@@ -1,0 +1,20 @@
+String Handling:
+
+What is String?
+
+String internally char[]
+e.g: String name = "Amit";
+char name[] = {'A', 'm', 'i', 't'};
+String is a predefine class in Java
+It is also treat like a Data type
+String is a final class, so you can't inherit
+
+String Objects are created in 2 ways
+1. String Literal Style
+e.g: String name = "Ram";
+
+2. String Object Style
+e.g: String name = new String("Ram");
+
+String use String Pool
+String Objects are immutable
