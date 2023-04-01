@@ -18,3 +18,10 @@ e.g: String name = new String("Ram");
 
 String use String Pool
 String Objects are immutable
+- String doesn't change existing or original objects, it can create new memory or object all the time.
+
+String buffer is mutuble that means it doesn't create new objects or memory.
+
+Capacity Cross:
+old cap * 2 + 2
+16 * 2 + 2 = 34
